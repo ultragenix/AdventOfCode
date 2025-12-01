@@ -129,7 +129,3 @@ with open(input_path) as f:
 
 # Display the final answer
 print(f'la solution est :{solution}')
-
-
-if __name__ == "__main__":
-    print("ok")
